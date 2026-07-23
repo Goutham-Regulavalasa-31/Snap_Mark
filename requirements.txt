@@ -22,3 +22,5 @@ pillow
 
 #UI/UX
 streamlit
+
+watchdog
